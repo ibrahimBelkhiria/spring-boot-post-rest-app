@@ -17,7 +17,6 @@ public class User {
     @JsonIgnore
     private String password;
 
-
     @Column
     private int age;
 
